@@ -1,2 +1,3 @@
 # NLP_Viterbi_Universal_Dataset
-Here, i am implementing functions which will improve the assignation of POS tag if some one is using nltk Universal POS Taggar 
+Implementing functions which will improve the assignation of POS tag if you are using nltk Universal POS Taggar.
+There is scope to develope/modify functions so that the accuracy will reach to 100%.
